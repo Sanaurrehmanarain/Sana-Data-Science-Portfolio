@@ -126,8 +126,11 @@ This repository is a central catalogue of my projects across Data Science, Machi
 ## 📊 Data Science Projects
 
 ### 1. sustainability-ai-smart-cities
+
 **Status:** ✅ Complete
+
 **Description:** Multi-modal AI using satellite imagery and financial data to predict Urban Heat Islands.
+
 **Repository:** [sustainability-ai-smart-cities](https://github.com/Sanaurrehmanarain/sustainability-ai-smart-cities)
 
 ### 2. multimodal_crisis_early_warning
@@ -150,28 +153,43 @@ This repository is a central catalogue of my projects across Data Science, Machi
 ## 🗄️ SQL Projects
 
 ### 1. FaceRecog-DB-Core-SQL
+
 **Status:** ✅ Complete
+
 **Description:** A high-performance attendance database system simulating 100,000+ records. Features a normalized schema, Python data seeding, and a showcase of query optimization using composite indexes to reduce lookup time by 99%.
+
 **Repository:** [FaceRecog-DB-Core-SQL](https://github.com/Sanaurrehmanarain/FaceRecog-DB-Core-SQL)
 
 ### 2. Bank-Vault-Core-SQL
+
 **Status:** ✅ Complete
+
 **Description:** A secure, ACID-compliant banking database system featuring stored procedures for safe money transfers and automated triggers for fraud detection.
+
 **Repository:** [Bank-Vault-Core-SQL](https://github.com/Sanaurrehmanarain/Bank-Vault-Core-SQL)
 
 ### 3. E_Commerce_SQL
+
 **Status:** ✅ Complete
+
 **Description:** A relational database system for online shopping featuring inventory triggers, ACID transactions, and Customer Lifetime Value (CLV) analytics.
+
 **Repository:** [E_Commerce_SQL](https://github.com/Sanaurrehmanarain/E_Commerce_SQL)
 
 ### 4. Retail-Sales-Analytics-SQL
+
 **Status:** ✅ Complete
+
 **Description:** End-to-end data analytics project extracting raw retail data via Python, loading it into MySQL for complex SQL analysis, and visualizing actionable business insights (sales trends, profit margins) using Matplotlib & Seaborn.
+
 **Repository:** [Retail-Sales-Analytics-SQL](https://github.com/Sanaurrehmanarain/Retail-Sales-Analytics-SQL)
 
 ### 5. hotel-management-system-sql
+
 **Status:** ✅ Complete
+
 **Description:** A relational database system for hotels featuring dynamic pricing engines, overlap-safe availability logic, and Python analytics.
+
 **Repository:** [hotel-management-system-sql](https://github.com/Sanaurrehmanarain/hotel-management-system-sql)
 
 ---
@@ -179,23 +197,35 @@ This repository is a central catalogue of my projects across Data Science, Machi
 ## 📈 R Projects
 
 ### 1. human_development_index_R
+
 **Status:** ✅ Complete
+
 **Description:** An end-to-end data science project predicting Human Development Index (HDI) using R. Features automated ETL (World Bank API), advanced EDA (PCA, Preston Curve), and a comparative analysis of Linear Regression vs. Random Forest models to uncover non-linear economic drivers.
+
 **Repository:** [human_development_index_R](https://github.com/Sanaurrehmanarain/human_development_index_R)
 
 ### 2. student-performance-analysis-R
+
 **Status:** ✅ Complete
+
 **Description:** An R-based statistical inference project investigating the drivers of student academic performance. Moves beyond simple prediction to isolate statistically significant factors using multivariate regression, ANOVA, and t-tests.
+
 **Repository:** [student-performance-analysis-R](https://github.com/Sanaurrehmanarain/student-performance-analysis-R)
 
 ### 3. Customer_Churn_Analysis_R
+
 **Status:** ✅ Complete
+
 **Description:** Predicting telecom customer churn with R & Tidymodels (AUC 0.86). Includes full EDA, feature engineering, Random Forest modeling, and actionable business strategies to improve customer retention.
+
 **Repository:** [Customer_Churn_Analysis_R](https://github.com/Sanaurrehmanarain/Customer_Churn_Analysis_R)
 
 ### 4. life-expectancy-analysis-R
+
 **Status:** ✅ Complete
+
 **Description:** An end-to-end R data analysis project investigating global life expectancy drivers. Features data cleaning (Tidyverse), advanced visualization (ggplot2), and predictive modeling (Caret) on WHO data.
+
 **Repository:** [life-expectancy-analysis-R](https://github.com/Sanaurrehmanarain/life-expectancy-analysis-R)
 
 ---
@@ -203,8 +233,11 @@ This repository is a central catalogue of my projects across Data Science, Machi
 ## 🐧 Linux Projects
 
 ### 1. End-to-End-Data-Science-Pipeline-Linux-Python-MySQL
+
 **Status:** ✅ Complete
+
 **Description:** An automated end-to-end data science pipeline built on Ubuntu Linux. Features CLI data exploration, Python-based ETL (Pandas), MySQL database modeling, and business analytics via SQL and Makefiles.
+
 **Repository:** [End-to-End-Data-Science-Pipeline-Linux-Python-MySQL](https://github.com/Sanaurrehmanarain/End-to-End-Data-Science-Pipeline-Linux-Python-MySQL)
 
 ---
