@@ -1,5 +1,9 @@
 # 📂 Sana's Data Science & Quantitative Finance Portfolio
 
+<p align="center">
+  <img src="banner.png" alt="Project Banner" width="100%">
+</p>
+
 This repository is a central catalogue of my projects across Data Science, Machine Learning, Deep Learning, Financial Engineering, Quantitative Finance, and Databases. Each entry links to its own repository containing full code, documentation, and results.
 
 **Legend:** ✅ Complete &nbsp; | &nbsp; 🚧 In Progress
