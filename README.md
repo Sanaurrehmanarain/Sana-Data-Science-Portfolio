@@ -80,9 +80,29 @@ This repository is a central catalogue of my projects across Data Science, Machi
 ## 💹 Financial Engineering Projects
 
 ### 1. Deep Learning for Finance
-- **a. Project 1** — 🚧 _To be added_ — Repository: _Coming soon_
-- **b. Project 2** — 🚧 _To be added_ — Repository: _Coming soon_
-- **c. Project 3** — 🚧 _To be added_ — Repository: _Coming soon_
+- **a. Project 1** dl-finance-ts-forecasting
+  
+  **Status:** ✅ Complete
+
+  **Description:** A comparative analysis of MLP and CNN (GAF) models for time series forecasting on AAPL stock, exploring stationarity, log returns, and fractional differencing.
+
+  **Repository:** [dl-finance-ts-forecasting](https://github.com/Sanaurrehmanarain/dl-finance-ts-forecasting)
+  
+- **b. Project 2** tactical-asset-allocation-lstm
+  
+  **Status:** ✅ Complete
+
+  **Description:** A comprehensive end-to-end deep learning finance project implementing tactical asset allocation strategies using LSTM neural networks to forecast multi-asset ETF returns and generate dynamic portfolio rebalancing signals.
+  
+  **Repository:** [tactical-asset-allocation-lstm](https://github.com/Sanaurrehmanarain/tactical-asset-allocation-lstm)
+  
+- **c. Project 3** dl-finance-leakage
+  
+  **Status:** ✅ Complete
+
+  **Description:** An investigation into the application of Deep Learning architectures (MLP, LSTM, and CNN via Gramian Angular Fields) to predict Bitcoin directional returns, focusing on a rigorous forensic analysis of data leakage.
+
+  **Repository:** [dl-finance-leakage](https://github.com/Sanaurrehmanarain/dl-finance-leakage)
 
 ### 2. Derivative Pricing
 - **a. Project 1** — 🚧 _To be added_ — Repository: _Coming soon_
