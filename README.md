@@ -80,7 +80,7 @@ This repository is a central catalogue of my projects across Data Science, Machi
 ## 💹 Financial Engineering Projects
 
 ### 1. Deep Learning for Finance
-- **a. Project 1:** dl-finance-ts-forecasting
+- #### **a. Project 1:** dl-finance-ts-forecasting
   
   **Status:** ✅ Complete
 
@@ -88,7 +88,7 @@ This repository is a central catalogue of my projects across Data Science, Machi
 
   **Repository:** [dl-finance-ts-forecasting](https://github.com/Sanaurrehmanarain/dl-finance-ts-forecasting)
   
-- **b. Project 2:** tactical-asset-allocation-lstm
+- #### **b. Project 2:** tactical-asset-allocation-lstm
   
   **Status:** ✅ Complete
 
@@ -96,7 +96,7 @@ This repository is a central catalogue of my projects across Data Science, Machi
   
   **Repository:** [tactical-asset-allocation-lstm](https://github.com/Sanaurrehmanarain/tactical-asset-allocation-lstm)
   
-- **c. Project 3:** dl-finance-leakage
+- #### **c. Project 3:** dl-finance-leakage
   
   **Status:** ✅ Complete
 
