@@ -105,8 +105,21 @@ This repository is a central catalogue of my projects across Data Science, Machi
   **Repository:** [dl-finance-leakage](https://github.com/Sanaurrehmanarain/dl-finance-leakage)
 
 ### 2. Derivative Pricing
-- **a. Project 1** — 🚧 _To be added_ — Repository: _Coming soon_
-- **b. Project 2** — 🚧 _To be added_ — Repository: _Coming soon_
+- #### **a. Project 1:** quantitative-derivative-pricing
+  
+    **Status:** ✅ Complete
+
+  **Description:** A comprehensive Python framework for financial derivative valuation using numerical methods. This project implements Binomial and Trinomial trees to price European and American options, analyzes sensitivities (Greeks), and simulates dynamic delta hedging strategies.
+
+  **Repository:** [dl-finance-leakage](https://github.com/Sanaurrehmanarain/quantitative-derivative-pricing)
+  
+- #### **b. Project 2:** advanced-derivative-pricing
+  
+    **Status:** ✅ Complete
+
+  **Description:** An advanced Python framework for pricing financial derivatives beyond Black-Scholes using the Heston Stochastic Volatility Model and the Merton Jump Diffusion Model. The project evaluates European, American, and Barrier options, analyzes strike sensitivities, and computes Greeks using Monte Carlo simulations.
+
+  **Repository:** [dl-finance-leakage](https://github.com/Sanaurrehmanarain/advanced-derivative-pricing)
 
 ### 3. Financial Data
 - **a. Project 1** — 🚧 _To be added_ — Repository: _Coming soon_
