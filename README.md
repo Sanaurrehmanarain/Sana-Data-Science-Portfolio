@@ -128,32 +128,32 @@ This repository is a central catalogue of my projects across Data Science, Machi
 
     **Description:** Quantitative analysis of financial time-series data, featuring Nelson-Siegel yield curve calibration, cubic spline interpolation, and PCA/SVD dimensionality reduction for risk factor decomposition.
 
-    **Repository:** [advanced-derivative-pricing](https://github.com/Sanaurrehmanarain/empirical-financial-analysis)
+    **Repository:** [empirical-financial-analysis](https://github.com/Sanaurrehmanarain/empirical-financial-analysis)
   
-- #### **b. Project 2:** ml-stock-trend-prediction/tree
+- #### **b. Project 2:** ml-stock-trend-prediction
 
     **Status:** ✅ Complete
 
     **Description:** A quantitative finance project that explores the intersection of traditional technical analysis and alternative data. It replicates academic methodologies for predicting stock market movements using classification models, and demonstrates the practical application of NLP sentiment analysis (VADER) in financial modeling.
 
-    **Repository:** [advanced-derivative-pricing](https://github.com/Sanaurrehmanarain/ml-stock-trend-prediction)
+    **Repository:** [ml-stock-trend-prediction](https://github.com/Sanaurrehmanarain/ml-stock-trend-prediction)
 
 ### 4. Financial Econometrics
-- #### **a. Project 1:**
+- #### **a. Project 1:** financial-econometrics-analysis
 
     **Status:** ✅ Complete
 
-    **Description:** An advanced Python framework for pricing financial derivatives beyond Black-Scholes using the Heston Stochastic Volatility Model and the Merton Jump Diffusion Model. The project evaluates European, American, and Barrier options, analyzes strike sensitivities, and computes Greeks using Monte Carlo simulations.
+    **Description:** A Python-based analysis of fundamental econometric challenges, including Omitted Variable Bias (OVB), sensitivity to outliers, model selection criteria, elasticity, and time series stationarity, utilizing both simulated environments and empirical real-world financial data.
 
-    **Repository:** [advanced-derivative-pricing](https://github.com/Sanaurrehmanarain/advanced-derivative-pricing)
+    **Repository:** [financial-econometrics-analysis](https://github.com/Sanaurrehmanarain/financial-econometrics-analysis)
   
-- #### **b. Project 2:**
+- #### **b. Project 2:** financial-econometrics-time-series
 
     **Status:** ✅ Complete
 
-    **Description:** An advanced Python framework for pricing financial derivatives beyond Black-Scholes using the Heston Stochastic Volatility Model and the Merton Jump Diffusion Model. The project evaluates European, American, and Barrier options, analyzes strike sensitivities, and computes Greeks using Monte Carlo simulations.
+    **Description:** Applies econometric and machine learning techniques to financial time series analysis. Uses PCA for feature extraction, Engle-Granger cointegration for non-stationarity, Ridge Regression for multicollinearity, and Markov Switching Autoregression for regime detection with Yahoo Finance and FRED data.
 
-    **Repository:** [advanced-derivative-pricing](https://github.com/Sanaurrehmanarain/advanced-derivative-pricing)
+    **Repository:** [financial-econometrics-time-series](https://github.com/Sanaurrehmanarain/financial-econometrics-time-series)
 
 ### 5. Machine Learning in Finance
 - **a. Project 1** — 🚧 _To be added_ — Repository: _Coming soon_
