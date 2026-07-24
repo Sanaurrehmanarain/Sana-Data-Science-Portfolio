@@ -119,15 +119,41 @@ This repository is a central catalogue of my projects across Data Science, Machi
 
   **Description:** An advanced Python framework for pricing financial derivatives beyond Black-Scholes using the Heston Stochastic Volatility Model and the Merton Jump Diffusion Model. The project evaluates European, American, and Barrier options, analyzes strike sensitivities, and computes Greeks using Monte Carlo simulations.
 
-  **Repository:** [advanced-derivative-pricing](https://github.com/Sanaurrehmanarain/advanced-derivative-pricing)
+    **Repository:** [advanced-derivative-pricing](https://github.com/Sanaurrehmanarain/advanced-derivative-pricing)
 
 ### 3. Financial Data
-- **a. Project 1** — 🚧 _To be added_ — Repository: _Coming soon_
-- **b. Project 2** — 🚧 _To be added_ — Repository: _Coming soon_
+- #### **a. Project 1:** empirical-financial-analysis
+
+    **Status:** ✅ Complete
+
+    **Description:** Quantitative analysis of financial time-series data, featuring Nelson-Siegel yield curve calibration, cubic spline interpolation, and PCA/SVD dimensionality reduction for risk factor decomposition.
+
+    **Repository:** [advanced-derivative-pricing](https://github.com/Sanaurrehmanarain/empirical-financial-analysis)
+  
+- #### **b. Project 2:** ml-stock-trend-prediction/tree
+
+    **Status:** ✅ Complete
+
+    **Description:** A quantitative finance project that explores the intersection of traditional technical analysis and alternative data. It replicates academic methodologies for predicting stock market movements using classification models, and demonstrates the practical application of NLP sentiment analysis (VADER) in financial modeling.
+
+    **Repository:** [advanced-derivative-pricing](https://github.com/Sanaurrehmanarain/ml-stock-trend-prediction)
 
 ### 4. Financial Econometrics
-- **a. Project 1** — 🚧 _To be added_ — Repository: _Coming soon_
-- **b. Project 2** — 🚧 _To be added_ — Repository: _Coming soon_
+- #### **a. Project 1:**
+
+    **Status:** ✅ Complete
+
+    **Description:** An advanced Python framework for pricing financial derivatives beyond Black-Scholes using the Heston Stochastic Volatility Model and the Merton Jump Diffusion Model. The project evaluates European, American, and Barrier options, analyzes strike sensitivities, and computes Greeks using Monte Carlo simulations.
+
+    **Repository:** [advanced-derivative-pricing](https://github.com/Sanaurrehmanarain/advanced-derivative-pricing)
+  
+- #### **b. Project 2:**
+
+    **Status:** ✅ Complete
+
+    **Description:** An advanced Python framework for pricing financial derivatives beyond Black-Scholes using the Heston Stochastic Volatility Model and the Merton Jump Diffusion Model. The project evaluates European, American, and Barrier options, analyzes strike sensitivities, and computes Greeks using Monte Carlo simulations.
+
+    **Repository:** [advanced-derivative-pricing](https://github.com/Sanaurrehmanarain/advanced-derivative-pricing)
 
 ### 5. Machine Learning in Finance
 - **a. Project 1** — 🚧 _To be added_ — Repository: _Coming soon_
