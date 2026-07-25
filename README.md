@@ -181,8 +181,21 @@ This repository is a central catalogue of my projects across Data Science, Machi
   **Repository:** [ml-finance-ensemble-optimization](https://github.com/Sanaurrehmanarain/ml-finance-ensemble-optimization)
 
 ### 6. Portfolio Management
-- **a. Project 1** — 🚧 _To be added_ — Repository: _Coming soon_
-- **b. Project 2** — 🚧 _To be added_ — Repository: _Coming soon_
+- #### **a. Project 1:** quant-portfolio-optimization
+
+  **Status:** ✅ Complete
+
+  **Description:** An end-to-end quantitative portfolio management project built in Python. This repository explores advanced asset allocation techniques, including Mean-Variance Optimization (MVO), Fama-French 5-Factor style analysis, Monte Carlo simulations, and the Black-Litterman model.
+
+  **Repository:** [quant-portfolio-optimization](https://github.com/Sanaurrehmanarain/quant-portfolio-optimization)
+  
+- #### **b. Project 2:** ml-portfolio-optimization
+
+  **Status:** ✅ Complete
+
+  **Description:** Modern portfolio optimization using constrained Kelly, HRP, K-Fold cross-validation, and Marčenko-Pastur denoising to improve risk-adjusted returns.
+
+  **Repository:** [ml-portfolio-optimization](https://github.com/Sanaurrehmanarain/ml-portfolio-optimization)
 
 ### 7. Risk Management
 - **a. Project 1** — 🚧 _To be added_ — Repository: _Coming soon_
