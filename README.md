@@ -156,8 +156,29 @@ This repository is a central catalogue of my projects across Data Science, Machi
     **Repository:** [financial-econometrics-time-series](https://github.com/Sanaurrehmanarain/financial-econometrics-time-series)
 
 ### 5. Machine Learning in Finance
-- **a. Project 1** — 🚧 _To be added_ — Repository: _Coming soon_
-- **b. Project 2** — 🚧 _To be added_ — Repository: _Coming soon_
+- #### **a. Project 1:** ml-finance-alpha-quant
+
+  **Status:** ✅ Complete
+
+  **Description:** A comprehensive quantitative handbook applying machine learning methodologies (Regularization, Clustering, PCA, and Decision Trees) to real-world financial data for market regime detection and trading strategy optimization.
+
+  **Repository:** [ml-finance-alpha-quant](https://github.com/Sanaurrehmanarain/ml-finance-alpha-quant)
+  
+- #### **b. Project 2:** advanced-ml-finance-strategies
+
+  **Status:** ✅ Complete
+
+  **Description:** An advanced quantitative finance toolkit expanding "Marketing Alpha" strategies. Applies non-linear machine learning models (LDA, SVM, Neural Networks) and refined linear methods to tackle complex financial time series forecasting and market regime classification.
+
+  **Repository:** [advanced-ml-finance-strategies](https://github.com/Sanaurrehmanarain/advanced-ml-finance-strategies)
+  
+- #### **b. Project 3:** ml-finance-ensemble-optimization
+
+  **Status:** ✅ Complete
+  
+  **Description:** A quantitative finance toolkit addressing model reliability through hyperparameter optimization (GridSearch/LassoCV), bias-variance tradeoff analysis, and ensemble learning (Random Forests and Stacking) applied to S&P 500 and Sector ETF data.
+
+  **Repository:** [ml-finance-ensemble-optimization](https://github.com/Sanaurrehmanarain/ml-finance-ensemble-optimization)
 
 ### 6. Portfolio Management
 - **a. Project 1** — 🚧 _To be added_ — Repository: _Coming soon_
