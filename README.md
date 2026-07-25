@@ -189,8 +189,21 @@ This repository is a central catalogue of my projects across Data Science, Machi
 - **b. Project 2** — 🚧 _To be added_ — Repository: _Coming soon_
 
 ### 8. Stochastic Modeling
-- **a. Project 1** — 🚧 _To be added_ — Repository: _Coming soon_
-- **b. Project 2** — 🚧 _To be added_ — Repository: _Coming soon_
+- #### **a. Project 1:** stochastic-volatility-option-pricing
+
+  **Status:** ✅ Complete
+
+  **Description:** A quantitative finance project implementing stochastic volatility models (Heston, Bates) and interest rate diffusion models (CIR) to price Over-The-Counter (OTC) derivatives.
+
+  **Repository:** [stochastic-volatility-option-pricing](https://github.com/Sanaurrehmanarain/stochastic-volatility-option-pricing)
+  
+- #### **b. Project 2:** hmm-regime-asset-allocation
+
+  **Status:** ✅ Complete
+
+  **Description:** A quantitative finance project utilizing Hidden Markov Models (HMM) to infer market volatility regimes from the VIX index and dynamically rotate assets among SPY, TLT, and GLD.
+
+  **Repository:** [hmm-regime-asset-allocation](https://github.com/Sanaurrehmanarain/hmm-regime-asset-allocation)
 
 ---
 
