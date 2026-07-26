@@ -51,9 +51,12 @@ This repository is a central catalogue of my projects across Data Science, Machi
   **Repository:** [fake-news-detection-bert](https://github.com/Sanaurrehmanarain/fake-news-detection-bert)
 
 ### 4. Object Detection (YOLO)
-**Status:** 🚧 In Progress
-**Description:** _To be added_
-**Repository:** _Coming soon_
+
+  **Status:** ✅ Complete
+
+  **Description:** An end-to-end computer vision pipeline using a custom fine-tuned YOLOv8 model to detect construction hard hats and safety violations, deployed via a Streamlit web app.
+
+  **Repository:** [object-detection-yolov8](https://github.com/Sanaurrehmanarain/object-detection-yolov8)
 
 ---
 
