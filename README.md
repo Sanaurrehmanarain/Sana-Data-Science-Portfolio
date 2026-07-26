@@ -43,9 +43,12 @@ This repository is a central catalogue of my projects across Data Science, Machi
   **Repository:** [deep-sentiment-bilstm](https://github.com/Sanaurrehmanarain/deep-sentiment-bilstm)
 
 ### 3. Fake News Detection using BERT
-**Status:** 🚧 In Progress
-**Description:** _To be added_
-**Repository:** _Coming soon_
+
+  **Status:** ✅ Complete
+
+  **Description:** End-to-end deep learning pipeline for automated fake news detection using a fine-tuned BERT transformer model in PyTorch. Includes a Streamlit web app.
+
+  **Repository:** [fake-news-detection-bert](https://github.com/Sanaurrehmanarain/fake-news-detection-bert)
 
 ### 4. Object Detection (YOLO)
 **Status:** 🚧 In Progress
