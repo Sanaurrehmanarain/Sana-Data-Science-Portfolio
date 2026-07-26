@@ -198,8 +198,13 @@ This repository is a central catalogue of my projects across Data Science, Machi
   **Repository:** [ml-portfolio-optimization](https://github.com/Sanaurrehmanarain/ml-portfolio-optimization)
 
 ### 7. Risk Management
-- **a. Project 1** — 🚧 _To be added_ — Repository: _Coming soon_
-- **b. Project 2** — 🚧 _To be added_ — Repository: _Coming soon_
+- #### **a. Project** oil-price-pgm
+
+  **Status:** ✅ Complete
+
+  **Description:** A graduate-level Risk Management Mini-Capstone focused on forecasting West Texas Intermediate (WTI) Crude Oil prices using Probabilistic Graphical Models (PGMs) and Hidden Markov Models (HMMs).
+
+  **Repository:** [oil-price-pgm](https://github.com/Sanaurrehmanarain/oil-price-pgm)
 
 ### 8. Stochastic Modeling
 - #### **a. Project 1:** stochastic-volatility-option-pricing
