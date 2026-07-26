@@ -35,9 +35,12 @@ This repository is a central catalogue of my projects across Data Science, Machi
   **Repository:** [forklift-safety-ai](https://github.com/Sanaurrehmanarain/forklift-safety-ai)
 
 ### 2. Deep Sentiment Bidirectional LSTM Movie Review Analyzer
-**Status:** 🚧 In Progress
-**Description:** _To be added_
-**Repository:** _Coming soon_
+
+  **Status:** ✅ Complete
+
+  **Description:** An end-to-end NLP pipeline using a Bidirectional LSTM neural network to classify the sentiment of IMDB movie reviews.
+
+  **Repository:** [deep-sentiment-bilstm](https://github.com/Sanaurrehmanarain/deep-sentiment-bilstm)
 
 ### 3. Fake News Detection using BERT
 **Status:** 🚧 In Progress
