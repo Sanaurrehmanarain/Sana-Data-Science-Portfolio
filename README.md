@@ -27,9 +27,12 @@ This repository is a central catalogue of my projects across Data Science, Machi
 ## 🧠 Deep Learning Projects
 
 ### 1. AI-Powered Warehouse Forklift Safety Monitoring System
-**Status:** 🚧 In Progress
-**Description:** _To be added_
-**Repository:** _Coming soon_
+
+  **Status:** ✅ Complete
+
+  **Description:** Real-time computer vision system using YOLO11 to detect workers, track movement, and prevent forklift collisions in warehouse safety zones.
+
+  **Repository:** [forklift-safety-ai](https://github.com/Sanaurrehmanarain/forklift-safety-ai)
 
 ### 2. Deep Sentiment Bidirectional LSTM Movie Review Analyzer
 **Status:** 🚧 In Progress
