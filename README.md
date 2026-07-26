@@ -279,13 +279,13 @@ This repository is a central catalogue of my projects across Data Science, Machi
 
 **Repository:** [Bank-Vault-Core-SQL](https://github.com/Sanaurrehmanarain/Bank-Vault-Core-SQL)
 
-### 3. E_Commerce_SQL
+### 3. e-commerce-sql
 
 **Status:** ✅ Complete
 
 **Description:** A relational database system for online shopping featuring inventory triggers, ACID transactions, and Customer Lifetime Value (CLV) analytics.
 
-**Repository:** [E_Commerce_SQL](https://github.com/Sanaurrehmanarain/E_Commerce_SQL)
+**Repository:** [e-commerce-sql](https://github.com/Sanaurrehmanarain/e-commerce-sql)
 
 ### 4. Retail-Sales-Analytics-SQL
 
@@ -307,13 +307,13 @@ This repository is a central catalogue of my projects across Data Science, Machi
 
 ## 📈 R Projects
 
-### 1. human_development_index_R
+### 1. human-development-index-r
 
 **Status:** ✅ Complete
 
 **Description:** An end-to-end data science project predicting Human Development Index (HDI) using R. Features automated ETL (World Bank API), advanced EDA (PCA, Preston Curve), and a comparative analysis of Linear Regression vs. Random Forest models to uncover non-linear economic drivers.
 
-**Repository:** [human_development_index_R](https://github.com/Sanaurrehmanarain/human_development_index_R)
+**Repository:** [human-development-index-r](https://github.com/Sanaurrehmanarain/human-development-index-r)
 
 ### 2. student-performance-analysis-R
 
@@ -323,13 +323,13 @@ This repository is a central catalogue of my projects across Data Science, Machi
 
 **Repository:** [student-performance-analysis-R](https://github.com/Sanaurrehmanarain/student-performance-analysis-R)
 
-### 3. Customer_Churn_Analysis_R
+### 3. customer-churn-analysis-r
 
 **Status:** ✅ Complete
 
 **Description:** Predicting telecom customer churn with R & Tidymodels (AUC 0.86). Includes full EDA, feature engineering, Random Forest modeling, and actionable business strategies to improve customer retention.
 
-**Repository:** [Customer_Churn_Analysis_R](https://github.com/Sanaurrehmanarain/Customer_Churn_Analysis_R)
+**Repository:** [customer-churn-analysis-r](https://github.com/Sanaurrehmanarain/customer-churn-analysis-r)
 
 ### 4. life-expectancy-analysis-R
 
