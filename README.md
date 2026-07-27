@@ -257,9 +257,12 @@ This repository is a central catalogue of my projects across Data Science, Machi
 **Repository:** [sustainability-ai-smart-cities](https://github.com/Sanaurrehmanarain/sustainability-ai-smart-cities)
 
 ### 2. multimodal_crisis_early_warning
-**Status:** 🚧 In Progress
-**Description:** _To be added_
-**Repository:** _Coming soon_
+
+**Status:** ✅ Complete
+
+**Description:** A multimodal AI framework fusing financial, macroeconomic, and sentiment signals to predict systemic market crises 14 days in advance. Features XGBoost, SMOTE imbalance handling, and a Streamlit dashboard.
+
+**Repository:** [multimodal-crisis-ews](https://github.com/Sanaurrehmanarain/multimodal-crisis-ews)
 
 ### 3. Precision Medicine: Genomic Data & Disease Prediction
 **Status:** 🚧 In Progress
