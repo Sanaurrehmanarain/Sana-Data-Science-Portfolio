@@ -265,14 +265,20 @@ This repository is a central catalogue of my projects across Data Science, Machi
 **Repository:** [multimodal-crisis-ews](https://github.com/Sanaurrehmanarain/multimodal-crisis-ews)
 
 ### 3. Precision Medicine: Genomic Data & Disease Prediction
-**Status:** 🚧 In Progress
-**Description:** _To be added_
-**Repository:** _Coming soon_
+
+**Status:** ✅ Complete
+
+**Description:** An interpretable Machine Learning framework for precision breast cancer subtyping using multi-omics TCGA data. Benchmarks Linear vs. Deep Learning models and discovers novel biomarkers using SHAP.
+
+**Repository:** [decoding-heterogeneity-genomics](https://github.com/Sanaurrehmanarain/decoding-heterogeneity-genomics)
 
 ### 4. Real-Time Deepfake & Misinformation Detection
-**Status:** 🚧 In Progress
-**Description:** _To be added_
-**Repository:** _Coming soon_
+
+**Status:** ✅ Complete
+
+**Description:** A multimodal deep learning framework for real-time detection of deepfakes and AI misinformation. Fuses semantic text analysis (NLP) with frequency-domain video forensics (FFT) to generate a unified Trust Score.
+
+**Repository:** [deepguard-ai](https://github.com/Sanaurrehmanarain/deepguard-ai)
 
 ---
 
