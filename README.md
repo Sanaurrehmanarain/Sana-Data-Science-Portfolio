@@ -1,437 +1,246 @@
+<div align="center">
+
 # 📂 Sana's Data Science & Quantitative Finance Portfolio
 
-<p align="center">
-  <img src="banner.png" alt="Project Banner" width="100%">
-</p>
+<img src="banner.png" alt="Project Banner" width="100%">
 
-This repository is a central catalogue of my projects across Data Science, Machine Learning, Deep Learning, Financial Engineering, Quantitative Finance, and Databases. Each entry links to its own repository containing full code, documentation, and results.
+![Projects](https://img.shields.io/badge/Projects-40%2B-blue)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)
+![Status](https://img.shields.io/badge/Maintained-yes-success)
 
-**Legend:** ✅ Complete &nbsp; | &nbsp; 🚧 In Progress
+A central catalogue of my work across **Data Science, Machine Learning, Deep Learning, Financial Engineering, Quantitative Finance, and Databases.** Every entry links to a full repository with code, documentation, and results.
 
----
-
-## 📑 Table of Contents
-
-- [Deep Learning Projects](#-deep-learning-projects)
-- [Machine Learning Projects](#-machine-learning-projects)
-- [Financial Engineering Projects](#-financial-engineering-projects)
-- [AI Projects](#-ai-projects)
-- [Data Science Projects](#-data-science-projects)
-- [SQL Projects](#-sql-projects)
-- [R Projects](#-r-projects)
-- [Linux Projects](#-linux-projects)
-- [Quantitative Finance Projects](#-quantitative-finance-projects)
+</div>
 
 ---
 
-## 🧠 Deep Learning Projects
+## 📑 Quick Navigation
 
-### 1. AI-Powered Warehouse Forklift Safety Monitoring System
+| | | |
+|---|---|---|
+| 🧠 [Deep Learning](#-deep-learning) | 🤖 [Machine Learning](#-machine-learning) | 💹 [Financial Engineering](#-financial-engineering) |
+| 🧩 [AI Projects](#-ai-projects) | 📊 [Data Science](#-data-science) | 🗄️ [SQL](#️-sql) |
+| 📈 [R](#-r) | 🐧 [Linux](#-linux) | 📐 [Quantitative Finance](#-quantitative-finance) |
 
-  **Status:** ✅ Complete
-
-  **Description:** Real-time computer vision system using YOLO11 to detect workers, track movement, and prevent forklift collisions in warehouse safety zones.
-
-  **Repository:** [forklift-safety-ai](https://github.com/Sanaurrehmanarain/forklift-safety-ai)
-
-### 2. Deep Sentiment Bidirectional LSTM Movie Review Analyzer
-
-  **Status:** ✅ Complete
-
-  **Description:** An end-to-end NLP pipeline using a Bidirectional LSTM neural network to classify the sentiment of IMDB movie reviews.
-
-  **Repository:** [deep-sentiment-bilstm](https://github.com/Sanaurrehmanarain/deep-sentiment-bilstm)
-
-### 3. Fake News Detection using BERT
-
-  **Status:** ✅ Complete
-
-  **Description:** End-to-end deep learning pipeline for automated fake news detection using a fine-tuned BERT transformer model in PyTorch. Includes a Streamlit web app.
-
-  **Repository:** [fake-news-detection-bert](https://github.com/Sanaurrehmanarain/fake-news-detection-bert)
-
-### 4. Object Detection (YOLO)
-
-  **Status:** ✅ Complete
-
-  **Description:** An end-to-end computer vision pipeline using a custom fine-tuned YOLOv8 model to detect construction hard hats and safety violations, deployed via a Streamlit web app.
-
-  **Repository:** [object-detection-yolov8](https://github.com/Sanaurrehmanarain/object-detection-yolov8)
+**Legend:** ✅ Complete &nbsp;·&nbsp; 🚧 In Progress
 
 ---
 
-## 🤖 Machine Learning Projects
+## 🧠 Deep Learning
 
-### 1. Explainable AI (XAI) for Credit Risk
-
-  **Status:** ✅ Complete
-
-  **Description:** A regulatory-compliant credit risk classifier built with XGBoost, featuring a SHAP-based interpretability layer for individual loan denials and an AIF360 fairness audit proving non-bias (DI=0.96).
-
-  **Repository:** [FairLoan-XAI-Credit-Scoring](https://github.com/Sanaurrehmanarain/FairLoan-XAI-Credit-Scoring)
-
-### 2. Explainable AI (XAI) for Healthcare
-
-  **Status:** ✅ Complete
-
-  **Description:** A "Safety-First" XGBoost classifier for breast cancer diagnosis optimized for 93% Recall (Sensitivity). Utilizes SHAP for forensic error analysis to identify why certain malignant tumors are misclassified.
-
-  **Repository:** [OncoSafe-Clinical-XAI](https://github.com/Sanaurrehmanarain/OncoSafe-Clinical-XAI)
-
-### 3. Housing Price Prediction
-
-  **Status:** ✅ Complete
-
-  **Description:** An end-to-end machine learning pipeline predicting Ames housing prices. Features comprehensive EDA, engineered features, an optimized XGBoost model, SHAP explainability, and an interactive Streamlit web application.
-
-  **Repository:** [housing-price-prediction](https://github.com/Sanaurrehmanarain/housing-price-prediction)
-
-### 4. Predictive Maintenance & Anomaly Detection for IoT
-
-  **Status:** ✅ Complete
-
-  **Description:** Implementation of a Deep Learning-based Predictive Maintenance system (RUL prediction) using Stacked LSTMs on NASA C-MAPSS data. Features a real-time streaming simulation with Apache Kafka/MQTT and achieves a Test RMSE of 24.48. Developed for the Academic Project: "Predictive Maintenance for Industrial IoT".
-
-  **Repository:** [predictive-maintenance-iot](https://github.com/Sanaurrehmanarain/predictive-maintenance-iot)
-
-### 5. RL-Optimized Supply Chain (Reinforcement Learning)
-
-  **Status:** ✅ Complete
-
-  **Description:** A Deep Reinforcement Learning (PPO) agent that optimizes inventory management, outperforming traditional Moving Average baselines by 3.6% in profitability using real-world financial data.
-
-  **Repository:** [rl-supply-chain-optimization](https://github.com/Sanaurrehmanarain/rl-supply-chain-optimization)
+| Project | Description | Status | Repo |
+|---|---|:---:|:---:|
+| **Forklift Safety AI** | Real-time YOLO11 computer vision system that detects workers and prevents forklift collisions in warehouse safety zones | ✅ | <a href="https://github.com/Sanaurrehmanarain/forklift-safety-ai" target="_blank" rel="noopener noreferrer">↗</a> |
+| **BiLSTM Sentiment Analyzer** | End-to-end NLP pipeline using a Bidirectional LSTM to classify IMDB movie review sentiment | ✅ | <a href="https://github.com/Sanaurrehmanarain/deep-sentiment-bilstm" target="_blank" rel="noopener noreferrer">↗</a> |
+| **Fake News Detection (BERT)** | Fine-tuned BERT transformer (PyTorch) for automated fake news detection, deployed as a Streamlit app | ✅ | <a href="https://github.com/Sanaurrehmanarain/fake-news-detection-bert" target="_blank" rel="noopener noreferrer">↗</a> |
+| **Object Detection (YOLOv8)** | Custom fine-tuned YOLOv8 model detecting construction hard hats and safety violations, deployed via Streamlit | ✅ | <a href="https://github.com/Sanaurrehmanarain/object-detection-yolov8" target="_blank" rel="noopener noreferrer">↗</a> |
 
 ---
 
-## 💹 Financial Engineering Projects
+## 🤖 Machine Learning
 
-### 1. Deep Learning for Finance
-- #### **a. Project 1:** dl-finance-ts-forecasting
-  
-  **Status:** ✅ Complete
+| Project | Description | Status | Repo |
+|---|---|:---:|:---:|
+| **FairLoan — XAI Credit Scoring** | XGBoost credit risk classifier with SHAP interpretability + AIF360 fairness audit (DI = 0.96) | ✅ | <a href="https://github.com/Sanaurrehmanarain/FairLoan-XAI-Credit-Scoring" target="_blank" rel="noopener noreferrer">↗</a> |
+| **OncoSafe — Clinical XAI** | "Safety-first" XGBoost breast cancer classifier tuned for 93% recall, with SHAP forensic error analysis | ✅ | <a href="https://github.com/Sanaurrehmanarain/OncoSafe-Clinical-XAI" target="_blank" rel="noopener noreferrer">↗</a> |
+| **Housing Price Prediction** | End-to-end Ames housing price pipeline: EDA, feature engineering, XGBoost, SHAP, Streamlit app | ✅ | <a href="https://github.com/Sanaurrehmanarain/housing-price-prediction" target="_blank" rel="noopener noreferrer">↗</a> |
+| **Predictive Maintenance (IoT)** | Stacked LSTM RUL prediction on NASA C-MAPSS data with Kafka/MQTT streaming simulation (Test RMSE 24.48) | ✅ | <a href="https://github.com/Sanaurrehmanarain/predictive-maintenance-iot" target="_blank" rel="noopener noreferrer">↗</a> |
+| **RL-Optimized Supply Chain** | PPO reinforcement learning agent for inventory management — beats moving-average baseline by 3.6% profitability | ✅ | <a href="https://github.com/Sanaurrehmanarain/rl-supply-chain-optimization" target="_blank" rel="noopener noreferrer">↗</a> |
 
-  **Description:** A comparative analysis of MLP and CNN (GAF) models for time series forecasting on AAPL stock, exploring stationarity, log returns, and fractional differencing.
+---
 
-  **Repository:** [dl-finance-ts-forecasting](https://github.com/Sanaurrehmanarain/dl-finance-ts-forecasting)
-  
-- #### **b. Project 2:** tactical-asset-allocation-lstm
-  
-  **Status:** ✅ Complete
+## 💹 Financial Engineering
 
-  **Description:** A comprehensive end-to-end deep learning finance project implementing tactical asset allocation strategies using LSTM neural networks to forecast multi-asset ETF returns and generate dynamic portfolio rebalancing signals.
-  
-  **Repository:** [tactical-asset-allocation-lstm](https://github.com/Sanaurrehmanarain/tactical-asset-allocation-lstm)
-  
-- #### **c. Project 3:** dl-finance-leakage
-  
-  **Status:** ✅ Complete
+<details open>
+<summary><strong>1. Deep Learning for Finance</strong></summary>
 
-  **Description:** An investigation into the application of Deep Learning architectures (MLP, LSTM, and CNN via Gramian Angular Fields) to predict Bitcoin directional returns, focusing on a rigorous forensic analysis of data leakage.
+| Project | Description | Status | Repo |
+|---|---|:---:|:---:|
+| **DL Finance — TS Forecasting** | MLP vs. CNN (GAF) comparison for AAPL time series forecasting; stationarity, log returns, fractional differencing | ✅ | <a href="https://github.com/Sanaurrehmanarain/dl-finance-ts-forecasting" target="_blank" rel="noopener noreferrer">↗</a> |
+| **Tactical Asset Allocation (LSTM)** | LSTM-based multi-asset ETF return forecasting with dynamic portfolio rebalancing signals | ✅ | <a href="https://github.com/Sanaurrehmanarain/tactical-asset-allocation-lstm" target="_blank" rel="noopener noreferrer">↗</a> |
+| **DL Finance — Data Leakage** | Forensic investigation of data leakage in MLP/LSTM/CNN (GAF) models predicting Bitcoin direction | ✅ | <a href="https://github.com/Sanaurrehmanarain/dl-finance-leakage" target="_blank" rel="noopener noreferrer">↗</a> |
 
-  **Repository:** [dl-finance-leakage](https://github.com/Sanaurrehmanarain/dl-finance-leakage)
+</details>
 
-### 2. Derivative Pricing
-- #### **a. Project 1:** quantitative-derivative-pricing
-  
-    **Status:** ✅ Complete
+<details open>
+<summary><strong>2. Derivative Pricing</strong></summary>
 
-  **Description:** A comprehensive Python framework for financial derivative valuation using numerical methods. This project implements Binomial and Trinomial trees to price European and American options, analyzes sensitivities (Greeks), and simulates dynamic delta hedging strategies.
+| Project | Description | Status | Repo |
+|---|---|:---:|:---:|
+| **Quantitative Derivative Pricing** | Binomial/Trinomial tree pricing for European & American options, Greeks, delta hedging simulation | ✅ | <a href="https://github.com/Sanaurrehmanarain/quantitative-derivative-pricing" target="_blank" rel="noopener noreferrer">↗</a> |
+| **Advanced Derivative Pricing** | Heston stochastic volatility & Merton jump diffusion pricing (European/American/Barrier), Monte Carlo Greeks | ✅ | <a href="https://github.com/Sanaurrehmanarain/advanced-derivative-pricing" target="_blank" rel="noopener noreferrer">↗</a> |
 
-  **Repository:** [quantitative-derivative-pricing](https://github.com/Sanaurrehmanarain/quantitative-derivative-pricing)
-  
-- #### **b. Project 2:** advanced-derivative-pricing
-  
-    **Status:** ✅ Complete
+</details>
 
-  **Description:** An advanced Python framework for pricing financial derivatives beyond Black-Scholes using the Heston Stochastic Volatility Model and the Merton Jump Diffusion Model. The project evaluates European, American, and Barrier options, analyzes strike sensitivities, and computes Greeks using Monte Carlo simulations.
+<details open>
+<summary><strong>3. Financial Data</strong></summary>
 
-    **Repository:** [advanced-derivative-pricing](https://github.com/Sanaurrehmanarain/advanced-derivative-pricing)
+| Project | Description | Status | Repo |
+|---|---|:---:|:---:|
+| **Empirical Financial Analysis** | Nelson-Siegel yield curve calibration, cubic spline interpolation, PCA/SVD risk factor decomposition | ✅ | <a href="https://github.com/Sanaurrehmanarain/empirical-financial-analysis" target="_blank" rel="noopener noreferrer">↗</a> |
+| **ML Stock Trend Prediction** | Classification-based stock movement prediction combining technical analysis with VADER NLP sentiment | ✅ | <a href="https://github.com/Sanaurrehmanarain/ml-stock-trend-prediction" target="_blank" rel="noopener noreferrer">↗</a> |
 
-### 3. Financial Data
-- #### **a. Project 1:** empirical-financial-analysis
+</details>
 
-    **Status:** ✅ Complete
+<details open>
+<summary><strong>4. Financial Econometrics</strong></summary>
 
-    **Description:** Quantitative analysis of financial time-series data, featuring Nelson-Siegel yield curve calibration, cubic spline interpolation, and PCA/SVD dimensionality reduction for risk factor decomposition.
+| Project | Description | Status | Repo |
+|---|---|:---:|:---:|
+| **Financial Econometrics Analysis** | Omitted variable bias, outlier sensitivity, model selection, elasticity, stationarity — simulated + real data | ✅ | <a href="https://github.com/Sanaurrehmanarain/financial-econometrics-analysis" target="_blank" rel="noopener noreferrer">↗</a> |
+| **Financial Econometrics Time Series** | PCA feature extraction, Engle-Granger cointegration, Ridge regression, Markov Switching AR regime detection | ✅ | <a href="https://github.com/Sanaurrehmanarain/financial-econometrics-time-series" target="_blank" rel="noopener noreferrer">↗</a> |
 
-    **Repository:** [empirical-financial-analysis](https://github.com/Sanaurrehmanarain/empirical-financial-analysis)
-  
-- #### **b. Project 2:** ml-stock-trend-prediction
+</details>
 
-    **Status:** ✅ Complete
+<details open>
+<summary><strong>5. Machine Learning in Finance</strong></summary>
 
-    **Description:** A quantitative finance project that explores the intersection of traditional technical analysis and alternative data. It replicates academic methodologies for predicting stock market movements using classification models, and demonstrates the practical application of NLP sentiment analysis (VADER) in financial modeling.
+| Project | Description | Status | Repo |
+|---|---|:---:|:---:|
+| **ML Finance — Alpha Quant** | Regularization, clustering, PCA, and decision trees for market regime detection & strategy optimization | ✅ | <a href="https://github.com/Sanaurrehmanarain/ml-finance-alpha-quant" target="_blank" rel="noopener noreferrer">↗</a> |
+| **Advanced ML Finance Strategies** | LDA, SVM, and neural networks for non-linear financial time series forecasting & regime classification | ✅ | <a href="https://github.com/Sanaurrehmanarain/advanced-ml-finance-strategies" target="_blank" rel="noopener noreferrer">↗</a> |
+| **ML Finance — Ensemble Optimization** | GridSearch/LassoCV tuning, bias-variance analysis, Random Forest & stacking ensembles on S&P 500/sector ETFs | ✅ | <a href="https://github.com/Sanaurrehmanarain/ml-finance-ensemble-optimization" target="_blank" rel="noopener noreferrer">↗</a> |
 
-    **Repository:** [ml-stock-trend-prediction](https://github.com/Sanaurrehmanarain/ml-stock-trend-prediction)
+</details>
 
-### 4. Financial Econometrics
-- #### **a. Project 1:** financial-econometrics-analysis
+<details open>
+<summary><strong>6. Portfolio Management</strong></summary>
 
-    **Status:** ✅ Complete
+| Project | Description | Status | Repo |
+|---|---|:---:|:---:|
+| **Quant Portfolio Optimization** | Mean-variance optimization, Fama-French 5-factor analysis, Monte Carlo simulation, Black-Litterman model | ✅ | <a href="https://github.com/Sanaurrehmanarain/quant-portfolio-optimization" target="_blank" rel="noopener noreferrer">↗</a> |
+| **ML Portfolio Optimization** | Constrained Kelly criterion, HRP, K-fold cross-validation, Marčenko-Pastur denoising | ✅ | <a href="https://github.com/Sanaurrehmanarain/ml-portfolio-optimization" target="_blank" rel="noopener noreferrer">↗</a> |
 
-    **Description:** A Python-based analysis of fundamental econometric challenges, including Omitted Variable Bias (OVB), sensitivity to outliers, model selection criteria, elasticity, and time series stationarity, utilizing both simulated environments and empirical real-world financial data.
+</details>
 
-    **Repository:** [financial-econometrics-analysis](https://github.com/Sanaurrehmanarain/financial-econometrics-analysis)
-  
-- #### **b. Project 2:** financial-econometrics-time-series
+<details open>
+<summary><strong>7. Risk Management</strong></summary>
 
-    **Status:** ✅ Complete
+| Project | Description | Status | Repo |
+|---|---|:---:|:---:|
+| **Oil Price PGM** | WTI crude oil price forecasting using Probabilistic Graphical Models & Hidden Markov Models (grad capstone) | ✅ | <a href="https://github.com/Sanaurrehmanarain/oil-price-pgm" target="_blank" rel="noopener noreferrer">↗</a> |
 
-    **Description:** Applies econometric and machine learning techniques to financial time series analysis. Uses PCA for feature extraction, Engle-Granger cointegration for non-stationarity, Ridge Regression for multicollinearity, and Markov Switching Autoregression for regime detection with Yahoo Finance and FRED data.
+</details>
 
-    **Repository:** [financial-econometrics-time-series](https://github.com/Sanaurrehmanarain/financial-econometrics-time-series)
+<details open>
+<summary><strong>8. Stochastic Modeling</strong></summary>
 
-### 5. Machine Learning in Finance
-- #### **a. Project 1:** ml-finance-alpha-quant
+| Project | Description | Status | Repo |
+|---|---|:---:|:---:|
+| **Stochastic Volatility Option Pricing** | Heston & Bates stochastic volatility, CIR interest rate diffusion for OTC derivative pricing | ✅ | <a href="https://github.com/Sanaurrehmanarain/stochastic-volatility-option-pricing" target="_blank" rel="noopener noreferrer">↗</a> |
+| **HMM Regime Asset Allocation** | Hidden Markov Models on VIX to infer volatility regimes and rotate SPY/TLT/GLD allocations | ✅ | <a href="https://github.com/Sanaurrehmanarain/hmm-regime-asset-allocation" target="_blank" rel="noopener noreferrer">↗</a> |
 
-  **Status:** ✅ Complete
-
-  **Description:** A comprehensive quantitative handbook applying machine learning methodologies (Regularization, Clustering, PCA, and Decision Trees) to real-world financial data for market regime detection and trading strategy optimization.
-
-  **Repository:** [ml-finance-alpha-quant](https://github.com/Sanaurrehmanarain/ml-finance-alpha-quant)
-  
-- #### **b. Project 2:** advanced-ml-finance-strategies
-
-  **Status:** ✅ Complete
-
-  **Description:** An advanced quantitative finance toolkit expanding "Marketing Alpha" strategies. Applies non-linear machine learning models (LDA, SVM, Neural Networks) and refined linear methods to tackle complex financial time series forecasting and market regime classification.
-
-  **Repository:** [advanced-ml-finance-strategies](https://github.com/Sanaurrehmanarain/advanced-ml-finance-strategies)
-  
-- #### **b. Project 3:** ml-finance-ensemble-optimization
-
-  **Status:** ✅ Complete
-  
-  **Description:** A quantitative finance toolkit addressing model reliability through hyperparameter optimization (GridSearch/LassoCV), bias-variance tradeoff analysis, and ensemble learning (Random Forests and Stacking) applied to S&P 500 and Sector ETF data.
-
-  **Repository:** [ml-finance-ensemble-optimization](https://github.com/Sanaurrehmanarain/ml-finance-ensemble-optimization)
-
-### 6. Portfolio Management
-- #### **a. Project 1:** quant-portfolio-optimization
-
-  **Status:** ✅ Complete
-
-  **Description:** An end-to-end quantitative portfolio management project built in Python. This repository explores advanced asset allocation techniques, including Mean-Variance Optimization (MVO), Fama-French 5-Factor style analysis, Monte Carlo simulations, and the Black-Litterman model.
-
-  **Repository:** [quant-portfolio-optimization](https://github.com/Sanaurrehmanarain/quant-portfolio-optimization)
-  
-- #### **b. Project 2:** ml-portfolio-optimization
-
-  **Status:** ✅ Complete
-
-  **Description:** Modern portfolio optimization using constrained Kelly, HRP, K-Fold cross-validation, and Marčenko-Pastur denoising to improve risk-adjusted returns.
-
-  **Repository:** [ml-portfolio-optimization](https://github.com/Sanaurrehmanarain/ml-portfolio-optimization)
-
-### 7. Risk Management
-- #### **a. Project** oil-price-pgm
-
-  **Status:** ✅ Complete
-
-  **Description:** A graduate-level Risk Management Mini-Capstone focused on forecasting West Texas Intermediate (WTI) Crude Oil prices using Probabilistic Graphical Models (PGMs) and Hidden Markov Models (HMMs).
-
-  **Repository:** [oil-price-pgm](https://github.com/Sanaurrehmanarain/oil-price-pgm)
-
-### 8. Stochastic Modeling
-- #### **a. Project 1:** stochastic-volatility-option-pricing
-
-  **Status:** ✅ Complete
-
-  **Description:** A quantitative finance project implementing stochastic volatility models (Heston, Bates) and interest rate diffusion models (CIR) to price Over-The-Counter (OTC) derivatives.
-
-  **Repository:** [stochastic-volatility-option-pricing](https://github.com/Sanaurrehmanarain/stochastic-volatility-option-pricing)
-  
-- #### **b. Project 2:** hmm-regime-asset-allocation
-
-  **Status:** ✅ Complete
-
-  **Description:** A quantitative finance project utilizing Hidden Markov Models (HMM) to infer market volatility regimes from the VIX index and dynamically rotate assets among SPY, TLT, and GLD.
-
-  **Repository:** [hmm-regime-asset-allocation](https://github.com/Sanaurrehmanarain/hmm-regime-asset-allocation)
+</details>
 
 ---
 
 ## 🧩 AI Projects
 
-### 1. _Project name to be added_
-**Status:** 🚧 In Progress
-**Description:** _To be added_
-**Repository:** _Coming soon_
+| Project | Description | Status | Repo |
+|---|---|:---:|:---:|
+| *To be added* | *To be added* | 🚧 | — |
 
 ---
 
-## 📊 Data Science Projects
+## 📊 Data Science
 
-### 1. sustainability-ai-smart-cities
-
-**Status:** ✅ Complete
-
-**Description:** Multi-modal AI using satellite imagery and financial data to predict Urban Heat Islands.
-
-**Repository:** [sustainability-ai-smart-cities](https://github.com/Sanaurrehmanarain/sustainability-ai-smart-cities)
-
-### 2. multimodal_crisis_early_warning
-
-**Status:** ✅ Complete
-
-**Description:** A multimodal AI framework fusing financial, macroeconomic, and sentiment signals to predict systemic market crises 14 days in advance. Features XGBoost, SMOTE imbalance handling, and a Streamlit dashboard.
-
-**Repository:** [multimodal-crisis-ews](https://github.com/Sanaurrehmanarain/multimodal-crisis-ews)
-
-### 3. Precision Medicine: Genomic Data & Disease Prediction
-
-**Status:** ✅ Complete
-
-**Description:** An interpretable Machine Learning framework for precision breast cancer subtyping using multi-omics TCGA data. Benchmarks Linear vs. Deep Learning models and discovers novel biomarkers using SHAP.
-
-**Repository:** [decoding-heterogeneity-genomics](https://github.com/Sanaurrehmanarain/decoding-heterogeneity-genomics)
-
-### 4. Real-Time Deepfake & Misinformation Detection
-
-**Status:** ✅ Complete
-
-**Description:** A multimodal deep learning framework for real-time detection of deepfakes and AI misinformation. Fuses semantic text analysis (NLP) with frequency-domain video forensics (FFT) to generate a unified Trust Score.
-
-**Repository:** [deepguard-ai](https://github.com/Sanaurrehmanarain/deepguard-ai)
+| Project | Description | Status | Repo |
+|---|---|:---:|:---:|
+| **Sustainability AI — Smart Cities** | Multi-modal AI fusing satellite imagery and financial data to predict Urban Heat Islands | ✅ | <a href="https://github.com/Sanaurrehmanarain/sustainability-ai-smart-cities" target="_blank" rel="noopener noreferrer">↗</a> |
+| **Multimodal Crisis Early Warning** | Fuses financial, macroeconomic & sentiment signals to predict systemic market crises 14 days ahead (XGBoost + SMOTE) | ✅ | <a href="https://github.com/Sanaurrehmanarain/multimodal-crisis-ews" target="_blank" rel="noopener noreferrer">↗</a> |
+| **Genomic Precision Medicine** | Interpretable ML for breast cancer subtyping on multi-omics TCGA data; SHAP-discovered biomarkers | ✅ | <a href="https://github.com/Sanaurrehmanarain/decoding-heterogeneity-genomics" target="_blank" rel="noopener noreferrer">↗</a> |
+| **DeepGuard AI** | Real-time deepfake/misinformation detection fusing NLP text analysis with FFT video forensics into a Trust Score | ✅ | <a href="https://github.com/Sanaurrehmanarain/deepguard-ai" target="_blank" rel="noopener noreferrer">↗</a> |
 
 ---
 
-## 🗄️ SQL Projects
+## 🗄️ SQL
 
-### 1. FaceRecog-DB-Core-SQL
-
-**Status:** ✅ Complete
-
-**Description:** A high-performance attendance database system simulating 100,000+ records. Features a normalized schema, Python data seeding, and a showcase of query optimization using composite indexes to reduce lookup time by 99%.
-
-**Repository:** [FaceRecog-DB-Core-SQL](https://github.com/Sanaurrehmanarain/FaceRecog-DB-Core-SQL)
-
-### 2. Bank-Vault-Core-SQL
-
-**Status:** ✅ Complete
-
-**Description:** A secure, ACID-compliant banking database system featuring stored procedures for safe money transfers and automated triggers for fraud detection.
-
-**Repository:** [Bank-Vault-Core-SQL](https://github.com/Sanaurrehmanarain/Bank-Vault-Core-SQL)
-
-### 3. e-commerce-sql
-
-**Status:** ✅ Complete
-
-**Description:** A relational database system for online shopping featuring inventory triggers, ACID transactions, and Customer Lifetime Value (CLV) analytics.
-
-**Repository:** [e-commerce-sql](https://github.com/Sanaurrehmanarain/e-commerce-sql)
-
-### 4. Retail-Sales-Analytics-SQL
-
-**Status:** ✅ Complete
-
-**Description:** End-to-end data analytics project extracting raw retail data via Python, loading it into MySQL for complex SQL analysis, and visualizing actionable business insights (sales trends, profit margins) using Matplotlib & Seaborn.
-
-**Repository:** [Retail-Sales-Analytics-SQL](https://github.com/Sanaurrehmanarain/Retail-Sales-Analytics-SQL)
-
-### 5. hotel-management-system-sql
-
-**Status:** ✅ Complete
-
-**Description:** A relational database system for hotels featuring dynamic pricing engines, overlap-safe availability logic, and Python analytics.
-
-**Repository:** [hotel-management-system-sql](https://github.com/Sanaurrehmanarain/hotel-management-system-sql)
+| Project | Description | Status | Repo |
+|---|---|:---:|:---:|
+| **FaceRecog DB Core** | 100,000+ record attendance database; composite indexing cuts lookup time by 99% | ✅ | <a href="https://github.com/Sanaurrehmanarain/FaceRecog-DB-Core-SQL" target="_blank" rel="noopener noreferrer">↗</a> |
+| **Bank Vault Core** | ACID-compliant banking DB with stored procedures for transfers & automated fraud-detection triggers | ✅ | <a href="https://github.com/Sanaurrehmanarain/Bank-Vault-Core-SQL" target="_blank" rel="noopener noreferrer">↗</a> |
+| **E-Commerce SQL** | Relational DB for online shopping with inventory triggers, ACID transactions, CLV analytics | ✅ | <a href="https://github.com/Sanaurrehmanarain/e-commerce-sql" target="_blank" rel="noopener noreferrer">↗</a> |
+| **Retail Sales Analytics** | Python ETL → MySQL → SQL analysis → Matplotlib/Seaborn visualization of sales trends & margins | ✅ | <a href="https://github.com/Sanaurrehmanarain/Retail-Sales-Analytics-SQL" target="_blank" rel="noopener noreferrer">↗</a> |
+| **Hotel Management System** | Relational DB with dynamic pricing engine, overlap-safe availability logic, Python analytics | ✅ | <a href="https://github.com/Sanaurrehmanarain/hotel-management-system-sql" target="_blank" rel="noopener noreferrer">↗</a> |
 
 ---
 
-## 📈 R Projects
+## 📈 R
 
-### 1. human-development-index-r
-
-**Status:** ✅ Complete
-
-**Description:** An end-to-end data science project predicting Human Development Index (HDI) using R. Features automated ETL (World Bank API), advanced EDA (PCA, Preston Curve), and a comparative analysis of Linear Regression vs. Random Forest models to uncover non-linear economic drivers.
-
-**Repository:** [human-development-index-r](https://github.com/Sanaurrehmanarain/human-development-index-r)
-
-### 2. student-performance-analysis-R
-
-**Status:** ✅ Complete
-
-**Description:** An R-based statistical inference project investigating the drivers of student academic performance. Moves beyond simple prediction to isolate statistically significant factors using multivariate regression, ANOVA, and t-tests.
-
-**Repository:** [student-performance-analysis-R](https://github.com/Sanaurrehmanarain/student-performance-analysis-R)
-
-### 3. customer-churn-analysis-r
-
-**Status:** ✅ Complete
-
-**Description:** Predicting telecom customer churn with R & Tidymodels (AUC 0.86). Includes full EDA, feature engineering, Random Forest modeling, and actionable business strategies to improve customer retention.
-
-**Repository:** [customer-churn-analysis-r](https://github.com/Sanaurrehmanarain/customer-churn-analysis-r)
-
-### 4. life-expectancy-analysis-R
-
-**Status:** ✅ Complete
-
-**Description:** An end-to-end R data analysis project investigating global life expectancy drivers. Features data cleaning (Tidyverse), advanced visualization (ggplot2), and predictive modeling (Caret) on WHO data.
-
-**Repository:** [life-expectancy-analysis-R](https://github.com/Sanaurrehmanarain/life-expectancy-analysis-R)
+| Project | Description | Status | Repo |
+|---|---|:---:|:---:|
+| **Human Development Index** | HDI prediction with World Bank ETL, PCA/Preston Curve EDA, Linear Regression vs. Random Forest | ✅ | <a href="https://github.com/Sanaurrehmanarain/human-development-index-r" target="_blank" rel="noopener noreferrer">↗</a> |
+| **Student Performance Analysis** | Statistical inference on academic performance drivers using regression, ANOVA, t-tests | ✅ | <a href="https://github.com/Sanaurrehmanarain/student-performance-analysis-R" target="_blank" rel="noopener noreferrer">↗</a> |
+| **Customer Churn Analysis** | Telecom churn prediction with Tidymodels (AUC 0.86); EDA, feature engineering, Random Forest | ✅ | <a href="https://github.com/Sanaurrehmanarain/customer-churn-analysis-r" target="_blank" rel="noopener noreferrer">↗</a> |
+| **Life Expectancy Analysis** | Global life expectancy drivers — Tidyverse cleaning, ggplot2 visualization, Caret predictive modeling | ✅ | <a href="https://github.com/Sanaurrehmanarain/life-expectancy-analysis-R" target="_blank" rel="noopener noreferrer">↗</a> |
 
 ---
 
-## 🐧 Linux Projects
+## 🐧 Linux
 
-### 1. End-to-End-Data-Science-Pipeline-Linux-Python-MySQL
-
-**Status:** ✅ Complete
-
-**Description:** An automated end-to-end data science pipeline built on Ubuntu Linux. Features CLI data exploration, Python-based ETL (Pandas), MySQL database modeling, and business analytics via SQL and Makefiles.
-
-**Repository:** [End-to-End-Data-Science-Pipeline-Linux-Python-MySQL](https://github.com/Sanaurrehmanarain/End-to-End-Data-Science-Pipeline-Linux-Python-MySQL)
+| Project | Description | Status | Repo |
+|---|---|:---:|:---:|
+| **End-to-End DS Pipeline (Linux/Python/MySQL)** | Automated pipeline on Ubuntu: CLI exploration, Pandas ETL, MySQL modeling, SQL/Makefile analytics | ✅ | <a href="https://github.com/Sanaurrehmanarain/End-to-End-Data-Science-Pipeline-Linux-Python-MySQL" target="_blank" rel="noopener noreferrer">↗</a> |
 
 ---
 
-## 📐 Quantitative Finance Projects
+## 📐 Quantitative Finance
 
-### 1. Decentralized Finance (DeFi) & Market Microstructure
+<details open>
+<summary><strong>1. Decentralized Finance (DeFi) & Market Microstructure</strong></summary>
 
-  **Status:** ✅ Complete
+**Master repo:** <a href="https://github.com/Sanaurrehmanarain/Quantitative-DeFi-Research" target="_blank" rel="noopener noreferrer">Quantitative-DeFi-Research</a>
 
-  **Description:** A comprehensive quantitative analysis of the Decentralized Finance (DeFi) ecosystem, featuring AMM microstructure modeling, high-frequency statistical arbitrage, Monte Carlo stochastic risk simulation, and Black-Scholes options pricing.
+A research mega-project synthesizing continuous-time finance, stochastic calculus, and decentralized market microstructure. The suite models constant-product ($x \cdot y = k$) bonding curves, tests HFT cointegration regimes, estimates protocol insolvency via Monte Carlo stress testing, and values options using Black-Scholes engines.
 
-  **Repository:** [Quantitative-DeFi-Research](https://github.com/Sanaurrehmanarain/Quantitative-DeFi-Research)
+| Module | Core Domain | Key Finding | Status | Repo |
+|---|---|---|:---:|:---:|
+| **01. AMM Microstructure** | Market Making & Liquidity | Quantified convex risk profile — recorded **-11.2% Impermanent Loss** during peak volatility | ✅ | <a href="https://github.com/Sanaurrehmanarain/Quantitative-DeFi-Research/tree/main/Project_01_AMM_Microstructure" target="_blank" rel="noopener noreferrer">↗</a> |
+| **02. Statistical Arbitrage** | Algorithmic Trading (HFT) | High correlation (0.98) does **not** imply cointegration (p = 0.477) — highlights regime risk | ✅ | <a href="https://github.com/Sanaurrehmanarain/Quantitative-DeFi-Research/tree/main/Project_02_Statistical_Arbitrage" target="_blank" rel="noopener noreferrer">↗</a> |
+| **03. Monte Carlo Risk** | Stochastic Stress Testing | Simulated 10k GBM paths — revealed a **5.87% tail-risk probability** of protocol insolvency | ✅ | <a href="https://github.com/Sanaurrehmanarain/Quantitative-DeFi-Research/tree/main/Project_03_Monte_Carlo_Risk" target="_blank" rel="noopener noreferrer">↗</a> |
+| **04. Options Pricing** | Financial Derivatives | Derived Black-Scholes valuation (C = $133.35) and mapped Δ/Γ hedging risk for DOVs | ✅ | <a href="https://github.com/Sanaurrehmanarain/Quantitative-DeFi-Research/tree/main/Project_04_Options_Pricing" target="_blank" rel="noopener noreferrer">↗</a> |
 
-  This project is consist of four projects. 
+</details>
+</details>
 
-- **a. Automated Market Maker (AMM) Mathematics**
+<details>
+<summary><strong>2. Machine Learning & Deep Learning in Finance</strong> — 🚧 In Progress</summary>
 
-  **Repository:** [AMM_Microstructure](https://github.com/Sanaurrehmanarain/Quantitative-DeFi-Research/tree/main/Project_01_AMM_Microstructure)
-  
-- **b. High-Frequency Trading (HFT) in Crypto**
- 
-  **Repository:** [Statistical_Arbitrage](https://github.com/Sanaurrehmanarain/Quantitative-DeFi-Research/tree/main/Project_02_Statistical_Arbitrage)
-  
-- **c. Monte Carlo Simulation**
-  
-  **Repository:** [Monte_Carlo_Risk](https://github.com/Sanaurrehmanarain/Quantitative-DeFi-Research/tree/main/Project_03_Monte_Carlo_Risk)
-  
-- **d. Option Pricing**
-  
-  **Repository:** [ptions_Pricing](https://github.com/Sanaurrehmanarain/Quantitative-DeFi-Research/tree/main/Project_04_Options_Pricing)
-  
-### 2. Machine Learning & Deep Learning in Finance
-- **a. Deep Hedging with Reinforcement Learning (RL)**
-  - i. Project 1 — 🚧 _To be added_ — Repository: _Coming soon_
-  - ii. Project 2 — 🚧 _To be added_ — Repository: _Coming soon_
-- **b. Generative Adversarial Networks (GANs) for Market Simulation** — 🚧 _To be added_ — Repository: _Coming soon_
-- **c. NLP for Intraday Volatility Prediction** — 🚧 _To be added_ — Repository: _Coming soon_
+| Project | Status | Repo |
+|---|:---:|:---:|
+| Deep Hedging with RL — Project 1 | 🚧 | — |
+| Deep Hedging with RL — Project 2 | 🚧 | — |
+| GANs for Market Simulation | 🚧 | — |
+| NLP for Intraday Volatility Prediction | 🚧 | — |
 
-### 3. Quantitative Volatility Modeling
-- **a. Neural SDEs (Stochastic Differential Equations)** — 🚧 _To be added_ — Repository: _Coming soon_
-- **b. Rough Volatility Models** — 🚧 _To be added_ — Repository: _Coming soon_
+</details>
 
-### 4. Risk Management, Sustainability & ESG
-- **a. Climate Risk Stress Testing** — 🚧 _To be added_ — Repository: _Coming soon_
-- **b. Quantifying Systemic Risk in Central Clearing Counterparties (CCPs)** — 🚧 _To be added_ — Repository: _Coming soon_
+<details>
+<summary><strong>3. Quantitative Volatility Modeling</strong> — 🚧 In Progress</summary>
+
+| Project | Status | Repo |
+|---|:---:|:---:|
+| Neural SDEs (Stochastic Differential Equations) | 🚧 | — |
+| Rough Volatility Models | 🚧 | — |
+
+</details>
+
+<details>
+<summary><strong>4. Risk Management, Sustainability & ESG</strong> — 🚧 In Progress</summary>
+
+| Project | Status | Repo |
+|---|:---:|:---:|
+| Climate Risk Stress Testing | 🚧 | — |
+| Systemic Risk in Central Clearing Counterparties (CCPs) | 🚧 | — |
+
+</details>
 
 ---
 
-*This README is a living document and is updated as new projects are completed and added.*
+<div align="center">
+
+*This README is a living document, updated as new projects are completed and added.*
+
+</div>
