@@ -63,29 +63,44 @@ This repository is a central catalogue of my projects across Data Science, Machi
 ## 🤖 Machine Learning Projects
 
 ### 1. Explainable AI (XAI) for Credit Risk
-**Status:** 🚧 In Progress
-**Description:** _To be added_
-**Repository:** _Coming soon_
+
+  **Status:** ✅ Complete
+
+  **Description:** A regulatory-compliant credit risk classifier built with XGBoost, featuring a SHAP-based interpretability layer for individual loan denials and an AIF360 fairness audit proving non-bias (DI=0.96).
+
+  **Repository:** [FairLoan-XAI-Credit-Scoring](https://github.com/Sanaurrehmanarain/FairLoan-XAI-Credit-Scoring)
 
 ### 2. Explainable AI (XAI) for Healthcare
-**Status:** 🚧 In Progress
-**Description:** _To be added_
-**Repository:** _Coming soon_
+
+  **Status:** ✅ Complete
+
+  **Description:** A "Safety-First" XGBoost classifier for breast cancer diagnosis optimized for 93% Recall (Sensitivity). Utilizes SHAP for forensic error analysis to identify why certain malignant tumors are misclassified.
+
+  **Repository:** [OncoSafe-Clinical-XAI](https://github.com/Sanaurrehmanarain/OncoSafe-Clinical-XAI)
 
 ### 3. Housing Price Prediction
-**Status:** 🚧 In Progress
-**Description:** _To be added_
-**Repository:** _Coming soon_
+
+  **Status:** ✅ Complete
+
+  **Description:** An end-to-end machine learning pipeline predicting Ames housing prices. Features comprehensive EDA, engineered features, an optimized XGBoost model, SHAP explainability, and an interactive Streamlit web application.
+
+  **Repository:** [housing-price-prediction](https://github.com/Sanaurrehmanarain/housing-price-prediction)
 
 ### 4. Predictive Maintenance & Anomaly Detection for IoT
-**Status:** 🚧 In Progress
-**Description:** _To be added_
-**Repository:** _Coming soon_
+
+  **Status:** ✅ Complete
+
+  **Description:** Implementation of a Deep Learning-based Predictive Maintenance system (RUL prediction) using Stacked LSTMs on NASA C-MAPSS data. Features a real-time streaming simulation with Apache Kafka/MQTT and achieves a Test RMSE of 24.48. Developed for the Academic Project: "Predictive Maintenance for Industrial IoT".
+
+  **Repository:** [predictive-maintenance-iot](https://github.com/Sanaurrehmanarain/predictive-maintenance-iot)
 
 ### 5. RL-Optimized Supply Chain (Reinforcement Learning)
-**Status:** 🚧 In Progress
-**Description:** _To be added_
-**Repository:** _Coming soon_
+
+  **Status:** ✅ Complete
+
+  **Description:** A Deep Reinforcement Learning (PPO) agent that optimizes inventory management, outperforming traditional Moving Average baselines by 3.6% in profitability using real-world financial data.
+
+  **Repository:** [rl-supply-chain-optimization](https://github.com/Sanaurrehmanarain/rl-supply-chain-optimization)
 
 ---
 
@@ -377,11 +392,31 @@ This repository is a central catalogue of my projects across Data Science, Machi
 ## 📐 Quantitative Finance Projects
 
 ### 1. Decentralized Finance (DeFi) & Market Microstructure
-- **a. Automated Market Maker (AMM) Mathematics** — 🚧 _To be added_ — Repository: _Coming soon_
-- **b. High-Frequency Trading (HFT) in Crypto** — 🚧 _To be added_ — Repository: _Coming soon_
-- **c. Monte Carlo Simulation** — 🚧 _To be added_ — Repository: _Coming soon_
-- **d. Option Pricing** — 🚧 _To be added_ — Repository: _Coming soon_
 
+  **Status:** ✅ Complete
+
+  **Description:** A comprehensive quantitative analysis of the Decentralized Finance (DeFi) ecosystem, featuring AMM microstructure modeling, high-frequency statistical arbitrage, Monte Carlo stochastic risk simulation, and Black-Scholes options pricing.
+
+  **Repository:** [Quantitative-DeFi-Research](https://github.com/Sanaurrehmanarain/Quantitative-DeFi-Research)
+
+  This project is consist of four projects. 
+
+- **a. Automated Market Maker (AMM) Mathematics**
+
+  **Repository:** [AMM_Microstructure](https://github.com/Sanaurrehmanarain/Quantitative-DeFi-Research/tree/main/Project_01_AMM_Microstructure)
+  
+- **b. High-Frequency Trading (HFT) in Crypto**
+ 
+  **Repository:** [Statistical_Arbitrage](https://github.com/Sanaurrehmanarain/Quantitative-DeFi-Research/tree/main/Project_02_Statistical_Arbitrage)
+  
+- **c. Monte Carlo Simulation**
+  
+  **Repository:** [Monte_Carlo_Risk](https://github.com/Sanaurrehmanarain/Quantitative-DeFi-Research/tree/main/Project_03_Monte_Carlo_Risk)
+  
+- **d. Option Pricing**
+  
+  **Repository:** [ptions_Pricing](https://github.com/Sanaurrehmanarain/Quantitative-DeFi-Research/tree/main/Project_04_Options_Pricing)
+  
 ### 2. Machine Learning & Deep Learning in Finance
 - **a. Deep Hedging with Reinforcement Learning (RL)**
   - i. Project 1 — 🚧 _To be added_ — Repository: _Coming soon_
