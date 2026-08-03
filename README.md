@@ -4,7 +4,7 @@
 
 <img src="banner.png" alt="Project Banner" width="100%">
 
-![Projects](https://img.shields.io/badge/Projects-40%2B-blue)
+![Projects](https://img.shields.io/badge/Projects-50%2B-blue)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)
@@ -203,37 +203,36 @@ A research mega-project synthesizing continuous-time finance, stochastic calculu
 | **04. Options Pricing** | Financial Derivatives | Derived Black-Scholes valuation (C = $133.35) and mapped Δ/Γ hedging risk for DOVs | ✅ | <a href="https://github.com/Sanaurrehmanarain/Quantitative-DeFi-Research/tree/main/Project_04_Options_Pricing" target="_blank" rel="noopener noreferrer">↗</a> |
 
 </details>
-</details>
 
-<details>
-<summary><strong>2. Machine Learning & Deep Learning in Finance</strong> — 🚧 In Progress</summary>
+<details open>
+<summary><strong>2. Machine Learning & Deep Learning in Finance</strong></summary>
 
-| Project | Status | Repo |
-|---|:---:|:---:|
-| Deep Hedging with RL — Project 1 | 🚧 | — |
-| Deep Hedging with RL — Project 2 | 🚧 | — |
-| GANs for Market Simulation | 🚧 | — |
-| NLP for Intraday Volatility Prediction | 🚧 | — |
-
-</details>
-
-<details>
-<summary><strong>3. Quantitative Volatility Modeling</strong> — 🚧 In Progress</summary>
-
-| Project | Status | Repo |
-|---|:---:|:---:|
-| Neural SDEs (Stochastic Differential Equations) | 🚧 | — |
-| Rough Volatility Models | 🚧 | — |
+| Project | Description | Status | Repo |
+|---|---|:---:|:---:|
+| **Deep Hedging with RL — Project 1** | Deep Reinforcement Learning (DDPG) agent for transaction-cost-aware option hedging, with Behavioral Cloning for a "warm start" and backtesting on real-world SPY ETF data | ✅ | <a href="https://github.com/Sanaurrehmanarain/deep-hedging-rl" target="_blank" rel="noopener noreferrer">↗</a> |
+| **Deep Hedging with RL — Project 2** | DRL agent optimizing derivatives hedging under transaction costs, stress-tested against the 2020 S&P 500 COVID-19 crash | ✅ | <a href="https://github.com/Sanaurrehmanarain/deep-hedging-black-swan" target="_blank" rel="noopener noreferrer">↗</a> |
+| **GANs for Market Simulation** | LSTM-GAN framework generating realistic, synthetic S&P 500 market data for quantitative analysis, algorithmic trading, and risk-management stress testing | ✅ | <a href="https://github.com/Sanaurrehmanarain/market-simulation-gan" target="_blank" rel="noopener noreferrer">↗</a> |
+| **NLP for Intraday Volatility Prediction** | Hybrid LSTM + FinBERT framework predicting S&P 500 intraday volatility by fusing high-frequency market data with real-time news sentiment | ✅ | <a href="https://github.com/Sanaurrehmanarain/nlp-intraday-volatility-prediction" target="_blank" rel="noopener noreferrer">↗</a> |
 
 </details>
 
-<details>
-<summary><strong>4. Risk Management, Sustainability & ESG</strong> — 🚧 In Progress</summary>
+<details open>
+<summary><strong>3. Quantitative Volatility Modeling</strong></summary>
 
-| Project | Status | Repo |
-|---|:---:|:---:|
-| Climate Risk Stress Testing | 🚧 | — |
-| Systemic Risk in Central Clearing Counterparties (CCPs) | 🚧 | — |
+| Project | Description | Status | Repo |
+|---|---|:---:|:---:|
+| **Neural SDEs (Stochastic Differential Equations)** | Autoregressive Neural SDE built in PyTorch to forecast VIX dynamics, capturing non-linear market regimes and outperforming traditional Heston models | ✅ | <a href="https://github.com/Sanaurrehmanarain/Neural-SDE-Volatility-Modeling" target="_blank" rel="noopener noreferrer">↗</a> |
+| **Rough Volatility Models** | Empirical validation of the Rough Volatility paradigm (H < 0.5) on S&P 500 data, with Monte Carlo options pricing via the Rough Bergomi (rBergomi) model to capture short-term implied volatility skew | ✅ | <a href="https://github.com/Sanaurrehmanarain/rough-volatility-modeling" target="_blank" rel="noopener noreferrer">↗</a> |
+
+</details>
+
+<details open>
+<summary><strong>4. Risk Management, Sustainability & ESG</strong></summary>
+
+| Project | Description | Status | Repo |
+|---|---|:---:|:---:|
+| **Climate Risk Stress Testing** | Python-based stress-testing framework quantifying how market frictions and liquidity dry-ups amplify Tail Risk (VaR) in ESG portfolios under climate transition scenarios | ✅ | <a href="https://github.com/Sanaurrehmanarain/climate-risk-stress-testing" target="_blank" rel="noopener noreferrer">↗</a> |
+| **Systemic Risk in Central Clearing Counterparties (CCPs)** | Python-based Monte Carlo stress-testing framework quantifying the systemic impact of ESG and climate transition shocks on Central Clearing Counterparties | ✅ | <a href="https://github.com/Sanaurrehmanarain/ccp-esg-stress-testing" target="_blank" rel="noopener noreferrer">↗</a> |
 
 </details>
 
